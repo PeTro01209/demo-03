@@ -19,9 +19,9 @@
 }
 
 body {
-	font-family: 'Nunito Sans', sans-serif;
+	font-family: 'Consolas', sans-serif;
 	color: #c8c8d0;
-	background: #323437;
+	background: #3964a5;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	counter-reset: folderstyle;  
@@ -29,7 +29,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #d15066;
+	color: #36d691;
 	outline: none;
 	transition: color 0.2s;
 }
@@ -61,7 +61,7 @@ a:focus {
 	width: 100%;
 	padding: 0.5em;
 	text-align: center;
-	background: #f6506c;
+	background: #36d691;
 	color: #fff;
 }
 
@@ -77,7 +77,7 @@ a:focus {
 	min-height: 500px;
 	padding: 1.5em 1.5em 4em;
 	text-align: center;
-	background: url(../img/confetti.svg) repeat center center;
+	background: url(../img/coronavirus.jpg) repeat center center;
 }
 
 .codrops-header__title {
@@ -90,7 +90,7 @@ a:focus {
 .codrops-header__tagline {
 	width: 100%;
 	margin: 0 0 1em;
-	color: #595c62;
+	color: #000000;
 	font-weight: normal;
 	font-size: 1.15em;
 	max-width: 300px;
