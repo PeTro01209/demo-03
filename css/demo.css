@@ -375,16 +375,16 @@ a:focus {
 /* devi */
 
 .content--devi {
-	color: #c6c6d3;
-	background: #f2f2f9;
+	color: #6296a5;
+	background: #2b5972;
 }
 
 .folder--devi .folder__icon-img--back {
-	color: #8c8c99;
+	color: #93b6b4c7;
 }
 
 .folder--devi .folder__icon-img--cover {
-	color: #adadba;
+	color: #336462e0;
 }
 
 .folder--devi .folder__icon-img--cover,
@@ -393,11 +393,11 @@ a:focus {
 }
 
 .content--devi .folder__icon:hover .folder__icon-img--cover {
-	color: #636372;
+	color: #83a6d5;
 }
 
 .content--devi .folder__icon:hover .folder__icon-img--back {
-	color: #333;
+	color: rgb(59, 98, 128);
 }
 
 .folder--devi .folder__icon-svg--deco {
@@ -406,85 +406,85 @@ a:focus {
 }
 
 .folder--devi .folder__caption {
-	color: #323437;
+	color: #352e2e;
 }
 
 /* rudras */
 .content--rudras {
-	background-color: #c7ceda;
-	color: #9fa7b5;
+	background-color: #336462e0;
+	color: #93b6b4c7;
 }
 
 .content--rudras::after {
-	color: #2c67cd;
+	color: #c1c7d1;
 }
 
 .folder--rudras .folder__icon-img--back {
-	color: #353637;
+	color: #6296a5;
 }
 
 .folder--rudras .folder__icon-img--cover {
-	color: #505153;
+	color: #2b5972;
 }
 
 .folder--rudras .folder__icon-svg--deco {
-	color: #c7ceda;
+	color: #92a4a9;
 }
 
 .folder--rudras .folder__caption {
-	color: #2c67cd;
+	color: #c1c7d1;
 }
 
 /* ardra */
 .content--ardra {
-	background-color: #2b2d31;
-	color: #4c4e52;
+	color: #6296a5;
+	background: #2b5972;
 }
 
 .content--ardra::after {
-	color: #396fc5;
+	color:#352e2e;
 }
 
 .folder--ardra .folder__icon-img--back {
-	color: #234e91;
+	color: #93b6b4c7;
 }
 
 .folder--ardra .folder__icon-img--cover {
-	color: #396fc5;
+	color: #336462e0;
 }
 
 .folder--ardra .folder__icon-svg--deco {
-	color: #234e91;
+	color:#303d3dc7;
 }
 
 .folder--ardra .folder__caption {
-	color: #396fc5;
+	color: #352e2e;
 }
 
 /* shakti */
 .content--shakti {
-	background-color: #396fc5;
-	color: #4f8dee;
+	background-color: #336462e0;
+	color: #93b6b4c7;
 }
 
 .content--shakti::after {
-	color: #a8e485;
+	color: #c1c7d1;
 }
 
 .folder--shakti .folder__icon-img--back {
-	color: #091aad;
+	color: #6296a5;
 }
 
 .folder--shakti .folder__icon-img--cover {
-	color: #061bce;
+	color: #2b5972;
 }
 
 .folder--shakti .folder__icon-svg--deco {
-	color: #091aad;
+	color: #92a4a9;
 }
 
 .folder--shakti .folder__caption {
-	color: #a8e485;
+	color:#c1c7d1;
 }
 
 .folder--shakti .folder__thumb {
@@ -493,54 +493,54 @@ a:focus {
 
 /* kubera */
 .content--kubera {
-	background-color: #41f0b0;
-	color: #4ccf9f;
+	color: #6296a5;
+	background: #2b5972;
 }
 
 .content--kubera::after {
-	color: #2d2f2f;
+	color: #352e2e;
 }
 
 .folder--kubera .folder__icon-img--back {
-	color: #121313;
+	color: #93b6b4c7;
 }
 
 .folder--kubera .folder__icon-img--cover {
-	color: #2d2f2f;
+	color: #336462e0;
 }
 
 .folder--kubera .folder__icon-svg--deco {
-	color: #5a6f67;
+	color: #303d3dc7;
 }
 
 .folder--kubera .folder__caption {
-	color: #2d2f2f;	
+	color:#352e2e;	
 }
 
 /* hari */
 .content--hari {
-	background-color: #1198e8;
-	color: #0b66d9;
+	background-color: #336462e0;
+	color: #93b6b4c7;
 }
 
 .content--hari::after {
-	color: #f9dd48;
+	color: #c1c7d1;
 }
 
 .folder--hari .folder__icon-img--back {
-	color: #0c1dc0;
+	color: #6296a5;
 }
 
 .folder--hari .folder__icon-img--cover {
-	color: #1025ee;
+	color: #2b5972;
 }
 
 .folder--hari .folder__icon-svg--deco {
-	color: #0e1da7;
+	color: #92a4a9;
 }
 
 .folder--hari .folder__caption {
-	color: #f9dd48;	
+	color: #c1c7d1;
 	transition: opacity 0.2s;
 }
 
@@ -559,32 +559,32 @@ a:focus {
 
 /* ravi */
 .content--ravi {
-	background-color: #e6e6e4;
-	color: #c3c3b6;
+	color: #6296a5;
+	background: #2b5972;
 }
 
 .content--ravi::after {
-	color: #202023;
+	color: #352e2e;
 }
 
 .folder--ravi .folder__icon-img--back {
-	color: #202023;
+	color: #93b6b4c7;
 }
 
 .folder--ravi .folder__icon-img--cover {
-	color: #3f3f45;
+	color: #336462e0;
 }
 
 .folder--ravi .folder__icon-svg--deco {
-	color: #000;
+	color: #303d3dc7;
 }
 
 .folder--ravi .folder__caption {
-	color: #202023;	
+	color: #352e2e;
 }
 
 .folder--ravi .folder__feedback {
-	background-color: #fff;	
+	background-color: #f1f1f1cb;
 }
 
 .folder--ravi .folder__preview--thumbs {
@@ -596,62 +596,63 @@ a:focus {
 
 /* durga */
 .content--durga {
-	background-color: #202225;
-	color: #000;
+	background-color: #336462e0;
+	color: #93b6b4c7;
 }
 
 .content--durga::after {
-	color: #75dd96;
+	color: #c1c7d1;
 }
 
 .folder--durga .folder__icon-img--back {
-	color: #56ac72;
+	color: #6296a5;
 }
 
 .folder--durga .folder__icon-img--cover {
-	color: #75dd96;
+	color: #2b5972;
 }
 
 .folder--durga .folder__icon-svg--deco {
-	color: #56ac72;
+	color: #92a4a9;
 }
 
 .folder--durga .folder__caption {
-	color: #75dd96;
+	color: #c1c7d1;
 	font-family: monospace;
 }
 
 .folder--durga .folder__detail	{
-	color: #f1f1f1;
+	color: #f1f1f1cb;
 	font-size: 1.15em;
 	margin: 0.25em 0;
+	width: 18em;
 	font-family: monospace;
 }
 
 /* nandi */
 .content--nandi {
-	background-color: #e3f6e5;
-	color: #cbd9cc;
+	color: #6296a5;
+	background: #2b5972;
 }
 
 .content--nandi::after {
-	color: #292d28;
+	color: #352e2e;
 }
 
 .folder--nandi .folder__icon-img--back {
-	color: #caa968;
+	color: #93b6b4c7;
 }
 
 .folder--nandi .folder__icon-img--cover {
-	color: #ddba75;
+	color: #336462e0;
 }
 
 .folder--nandi .folder__icon-svg--deco {
-	color: #caa968;
+	color: #303d3dc7;
 }
 
 .folder--nandi .folder__caption {
-	color: #292d28;
+	color: #352e2e;
 }
 
 .folder--nandi .folder__detail {
